@@ -1,8 +1,8 @@
-Description
+******Description
  
       The work day scheduler is to assign and event for each hour block  . The date and time are displayed at the top of the page using dayjs format . 
  
-Functionality 
+******Functionality 
  
    The user will notice hour blocks starting from 8am to 6pm. Each block has a save button that will alow the user to save the text in the time block. The        text data is stored in local storage . 
  
@@ -17,7 +17,7 @@ Functionality
 
 
 
-License
+******License
 MIT License
 
 Copyright (c) 2021 Dlelias
