@@ -1,17 +1,18 @@
 Description
- The work day scheduler is to assign and event for each hour block  . The date and time are displayed at the top of the page using dayjs format . 
+ 
+      The work day scheduler is to assign and event for each hour block  . The date and time are displayed at the top of the page using dayjs format . 
  
 Functionality 
  
- The user will notice hour blocks starting from 8am to 6pm. Each block has a save button that will alow the user to save the text in the time block. The text data is stored in local storage . 
+   The user will notice hour blocks starting from 8am to 6pm. Each block has a save button that will alow the user to save the text in the time block. The        text data is stored in local storage . 
  
- Important! If the user refreashes the page the data local storage will be save and still accessible to the user.
+   Important! If the user refreashes the page the data local storage will be save and still accessible to the user.
  
  
- The hour blocks has color-coded themes indicating whether the time is current, past, or future. 
- - past hour blocks have a background of white
- - current hour block has a color of red
- - future hour block will have a color of green 
+  The hour blocks has color-coded themes indicating whether the time is current, past, or future. 
+  - past hour blocks have a background of white
+  - current hour block has a color of red
+  - future hour block will have a color of green 
  
 
 
