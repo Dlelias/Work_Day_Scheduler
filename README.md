@@ -2,9 +2,10 @@
  
       The work day scheduler is to assign and event for each hour block  . The date and time are displayed at the top of the page using dayjs format . 
       
-      URL:https://dlelias.github.io/Work_Day_Scheduler/
- 
+     
 ******Functionality 
+
+URL:https://dlelias.github.io/Work_Day_Scheduler/
  
    The user will notice hour blocks starting from 8am to 6pm. Each block has a save button that will alow the user to save the text in the time block. The        text data is stored in local storage . 
  
