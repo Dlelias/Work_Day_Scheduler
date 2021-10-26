@@ -1,6 +1,8 @@
 ******Description
  
       The work day scheduler is to assign and event for each hour block  . The date and time are displayed at the top of the page using dayjs format . 
+      
+      URL:https://dlelias.github.io/Work_Day_Scheduler/
  
 ******Functionality 
  
